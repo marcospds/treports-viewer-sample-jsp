@@ -5,7 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -45,6 +44,83 @@
     </head>
     <body>
         <h1>TRerports Viewer Sample</h1>
+<!--        <span>Url Rac:</span>
+        <input 
+            type="text" 
+            id="urlRac" 
+            style="width: 100px"
+            value="http://treports.rac.totvs.com.br/totvs.rac"
+        />
+        <span>Escopo:</span>
+        <input 
+            type="text" 
+            id="escopo" 
+            style="width: 20px"
+            value="openid"
+        />
+        <span>Client Id:</span>
+        <input 
+            type="text" 
+            id="clientId" 
+            style="width: 20px"
+            value="rac_ro"
+        />
+        <span>Client Secret:</span>
+        <input 
+            type="password" 
+            id="clientSecret" 
+            style="width: 20px"
+            value="totvs@123"
+        />
+        <span>UId Relatório:</span>
+        <input 
+            type="text" 
+            id="uidRelatorio" 
+            style="width: 100px"
+            value="b1312eea-92c6-4035-ad2c-4658f9ea5569"
+        />
+        <span>Tenant:</span>
+        <input 
+            type="text" 
+            id="tenant" 
+            style="width: 20px"
+            value="treports"
+        />
+        <span>Usuário:</span>
+        <input 
+            type="text" 
+            id="usuario" 
+            style="width: 20px"
+            value="teste"
+        />
+        <span>Senha:</span>
+        <input 
+            type="password" 
+            id="senha" 
+            style="width: 20px"
+            value="totvs@123"
+        />
+        <span>Url Treports:</span>
+        <input 
+            type="text" 
+            id="urlTreports" 
+            style="width: 20px"
+            value="http://localhost"
+        />
+        <span>Porta Front:</span>
+        <input 
+            type="text" 
+            id="portaFront" 
+            style="width: 20px"
+            value="7017"
+        />
+        <span>Porta Back:</span>
+        <input 
+            type="text" 
+            id="portaBack" 
+            style="width: 20px"
+            value="4999"
+        />-->
         <span>Access Token:</span>
         <input 
             type="text" 
